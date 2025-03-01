@@ -1,0 +1,15 @@
+/Users/IceTea/Projects/K2_1/bin/Debug/net7.0/K2_1
+/Users/IceTea/Projects/K2_1/bin/Debug/net7.0/K2_1.deps.json
+/Users/IceTea/Projects/K2_1/bin/Debug/net7.0/K2_1.runtimeconfig.json
+/Users/IceTea/Projects/K2_1/bin/Debug/net7.0/K2_1.dll
+/Users/IceTea/Projects/K2_1/bin/Debug/net7.0/K2_1.pdb
+/Users/IceTea/Projects/K2_1/obj/Debug/net7.0/K2_1.csproj.AssemblyReference.cache
+/Users/IceTea/Projects/K2_1/obj/Debug/net7.0/K2_1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/IceTea/Projects/K2_1/obj/Debug/net7.0/K2_1.AssemblyInfoInputs.cache
+/Users/IceTea/Projects/K2_1/obj/Debug/net7.0/K2_1.AssemblyInfo.cs
+/Users/IceTea/Projects/K2_1/obj/Debug/net7.0/K2_1.csproj.CoreCompileInputs.cache
+/Users/IceTea/Projects/K2_1/obj/Debug/net7.0/K2_1.dll
+/Users/IceTea/Projects/K2_1/obj/Debug/net7.0/refint/K2_1.dll
+/Users/IceTea/Projects/K2_1/obj/Debug/net7.0/K2_1.pdb
+/Users/IceTea/Projects/K2_1/obj/Debug/net7.0/K2_1.genruntimeconfig.cache
+/Users/IceTea/Projects/K2_1/obj/Debug/net7.0/ref/K2_1.dll

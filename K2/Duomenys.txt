@@ -1,0 +1,5 @@
+Algimantas BArnas; Kaunas; 1; 11; Aura; 15
+Algimantas BArnas; AKaunas; 1; 11; Aura; 15
+BAlgimantas Arnas; Kaunas; 1; 4; dziugas; 20
+Algimantas Arnas; Kaunas; 1; 11; Aura; 20
+CAlgimantas Arnas; Kaunas; 1; 11; dziugas; 15

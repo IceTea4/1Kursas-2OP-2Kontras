@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{CF0C194E-F441-402B-9EF3-CAB3E01BCF13}|Default">
+  <MonoDevelop.Ide.ItemProperties.K2__pvz PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
+    <Files>
+      <File FileName="Program.cs" Line="1" Column="1" />
+      <File FileName="Duomenys.txt" Line="4" Column="25" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="K2_pvz" expanded="True">
+            <Node name="K2_pvz" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

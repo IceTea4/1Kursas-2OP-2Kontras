@@ -1,0 +1,7 @@
+﻿A gamintojas; BMW 3; 100
+B gamintojas; BMW 3; 110
+C gamintojas; BMW 3; 45
+A gamintojas; BMW 3; 90
+A gamintojas; BMW 3; 55
+A gamintojas; ABMW 3; 90
+A gamintojas; BMW 3; 95
